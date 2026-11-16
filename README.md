@@ -8,6 +8,8 @@ Based on a 8gb Pi 5.
 
 > **Build status — 2026-11-16:** Base OS, SSH, primary HDD mount, Docker Engine and Docker Compose are working. Tailscale, Nextcloud and other server applications are not installed yet.
 
+Currently trying to fix the issues that's been occuring with the SATA driver.
+
 ## Hardware
 
 | Part | Specification | Current status |
